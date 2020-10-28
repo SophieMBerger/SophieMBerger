@@ -1,5 +1,13 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+<!-- Actual text -->
+
+## See what I'm upto on
+[![](https://img.shields.io/badge/LinkedIn-informational?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sophiemb/)](https://www.linkedin.com/in/sophiemb/)
+[![](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sophiemberger/)](https://www.instagram.com/sophiemberger/)
+[![](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=YouTube&logoColor=white&link=https://youtube.com/c/SophieBergerCreates)](https://youtube.com/c/SophieBergerCreates)
+[![](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/bergermsophie)](https://twitter.com/bergermsophie)
+
 ## Things I can use:
 ![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/Java-critical?style=flat-square&logo=Java)
