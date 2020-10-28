@@ -2,7 +2,7 @@
 
 <!-- Actual text -->
 
-## See what I'm upto on
+## See what I'm up to on:
 [![](https://img.shields.io/badge/LinkedIn-informational?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sophiemb/)](https://www.linkedin.com/in/sophiemb/)
 [![](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sophiemberger/)](https://www.instagram.com/sophiemberger/)
 [![](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=YouTube&logoColor=white&link=https://youtube.com/c/SophieBergerCreates)](https://youtube.com/c/SophieBergerCreates)
@@ -30,5 +30,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SophieMBerger&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SophieMBerger&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SophieMBerger&layout=compact&show_icons=true&theme=tokyonight" />
+</a>
 
 
