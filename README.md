@@ -11,7 +11,7 @@ Previously I worked as an iOS engineering intern at Tailored Apps and as an unde
 [![](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=YouTube&logoColor=white&link=https://youtube.com/c/SophieBergerCreates)](https://youtube.com/c/SophieBergerCreates)
 [![](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/bergermsophie)](https://twitter.com/bergermsophie)
 
-## Tech things:
+## 👾 Tech things:
 ![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/Java-critical?style=flat-square&logo=Java)
 ![](https://img.shields.io/badge/Swift-black?style=flat-square&logo=Swift)
