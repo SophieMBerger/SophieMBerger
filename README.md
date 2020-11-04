@@ -32,7 +32,7 @@ When I'm not busy with the above I enjoy doing crosswords, taking and editing ph
 
 
 
-## Some Numbers: 
+### Some Numbers: 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SophieMBerger&show_icons=true&theme=tokyonight" />
 </a>
