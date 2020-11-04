@@ -1,7 +1,9 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm Sophie Berger a founding iOS engineer at [Mindset](https://www.mindset4dementia.com/) and a Computer Science and Master of Management student at [The University of British Columbia](https://www.ubc.ca/). I am also an engagement director at [nwPlus](https://www.nwplus.io/), the organizers of Western Canada's largest hackathon.
+Hey, I'm Sophie Berger a founding iOS engineer [@Mindset](https://www.mindset4dementia.com/) and a Computer Science and Master of Management student [@The University of British Columbia](https://www.ubc.ca/). I'm also an engagement director [@nwPlus](https://www.nwplus.io/), the organizers of Western Canada's largest hackathon, and previously worked as an iOS engineering intern [@Tailored Apps](https://www.tailored-apps.com/) and as an undergraduate researcher at The University of British Columbia. 
 
-Previously I worked as an iOS engineering intern at Tailored Apps and as an undergraduate researcher at The University of British Columbia. 
+In terms of tech I am really interested in Software engineering (both front-end & back-end) as well as ML and any way they can help others better perform their tasks.
+
+When I'm not busy with the above I enjoy doing crosswords, taking and editing photos or working on my [@YouTube](https://youtube.com/c/SophieBergerCreates) channel.
 
 🌐 My [PORTFOLIO](https://sophiemberger.github.io/)
 
