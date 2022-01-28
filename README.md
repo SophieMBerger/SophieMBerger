@@ -3,14 +3,13 @@ Hey, I'm Sophie Berger a founding iOS engineer [@Mindset](https://www.mindset4de
 
 In terms of tech I am really interested in Software engineering (both front-end & back-end) as well as ML and any way they can help others better perform their tasks.
 
-When I'm not busy with the above I enjoy doing crosswords, taking and editing photos or working on my [@YouTube](https://youtube.com/c/SophieBergerCreates) channel.
+When I'm not busy with the above I enjoy doing crosswords, chess, hiking or taking and editing photos.
 
 🌐 My [PORTFOLIO](https://sophiemberger.github.io/)
 
 ### 👀 See what I'm up to on:
 [![](https://img.shields.io/badge/LinkedIn-informational?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/sophiemb/)](https://www.linkedin.com/in/sophiemb/)
 [![](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sophiemberger/)](https://www.instagram.com/sophiemberger/)
-[![](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=YouTube&logoColor=white&link=https://youtube.com/c/SophieBergerCreates)](https://youtube.com/c/SophieBergerCreates)
 [![](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/bergermsophie)](https://twitter.com/bergermsophie)
 
 ### 👾 Tech things:
